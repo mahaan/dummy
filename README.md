@@ -1,2 +1,3 @@
 # dummy
-help file
+dummy file
+expected
